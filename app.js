@@ -708,4 +708,4 @@ if (foundInText) {
   }
 
 });
-client.login("MzkzNDk0NTI3MjE5OTkwNTQw.Ds2tsw.Tvs3iR8qmDQyGZFsrTlOKF8W2JM");
+client.login(process.env.BOT_TOKEN);
